@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
