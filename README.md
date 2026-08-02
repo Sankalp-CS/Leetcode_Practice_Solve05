@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
+| [1006-clumsy-factorial](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/1006-clumsy-factorial) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0739-daily-temperatures) |
+| [1006-clumsy-factorial](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
