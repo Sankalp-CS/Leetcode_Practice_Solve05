@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0268-missing-number) |
