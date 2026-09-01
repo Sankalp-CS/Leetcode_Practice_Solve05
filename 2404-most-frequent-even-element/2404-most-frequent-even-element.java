@@ -6,16 +6,15 @@ class Solution {
                 map.put(x, map.getOrDefault(x, 0) + 1);
             }
         }
-        Integer[] arr = map.keySet().toArray(new Integer[0]);
-        Arrays.sort(arr, (a, b) -> {
-            if (map.get(a).equals(map.get(b))) {
-                return a - b;
-            }
-            return map.get(b) - map.get(a);
-        });
-        if (arr.length != 0) {
-            return arr[0];
+        int ans=-1;
+        int maxFreq=0;
+        for(int x:map.keySet()){
+            if(map.get(x)>maxFreq ||
+                (map.get(x)==maxFreq && x<ans) ){
+                    maxFreq=map.get(x);
+                    ans=x;
+                }
         }
-        return -1;
+        return ans;
     }
 }
