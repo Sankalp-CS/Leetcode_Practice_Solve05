@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0227-basic-calculator-ii) |
 | [0676-implement-magic-dictionary](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0680-valid-palindrome-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0589-n-ary-tree-preorder-traversal) |
