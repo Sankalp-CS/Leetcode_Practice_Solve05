@@ -613,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [1179-reformat-department-table](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
