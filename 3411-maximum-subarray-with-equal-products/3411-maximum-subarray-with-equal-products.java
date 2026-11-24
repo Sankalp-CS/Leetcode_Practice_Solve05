@@ -1,22 +1,32 @@
+import java.math.BigInteger;
 class Solution {
     public int maxLength(int[] nums) {
-        int n = nums.length, res = 0;
-        for (int i = 0; i < n; i++) {
-            long prod = 1, g = 0, l = 1;
-            for (int j = i; j < n; j++) {
-                prod *= nums[j];
-                g = gcd(g, nums[j]);
-                l = lcm(l, nums[j]);
-                if (prod == g * l) res = Math.max(res, j - i + 1);
-                else if (prod > g * l) break;
+        int n=nums.length;
+        int ans = 0;
+
+        for(int i=0;i<n;i++){
+            BigInteger product=BigInteger.ONE;
+            int lcm=1;
+            int gcd=0;
+            for(int j=i;j<n;j++){
+                product=product.multiply(BigInteger.valueOf(nums[j]));
+                gcd=gcd(gcd,nums[j]);
+                lcm=(lcm / gcd(lcm, nums[j])) * nums[j];
+                BigInteger result= BigInteger.valueOf(gcd)
+                    .multiply(BigInteger.valueOf(lcm));
+                if(product.equals(result)){
+                    ans=Math.max(ans,j-i+1);
+                }
             }
         }
-        return res;
+        return ans;
     }
-    private long gcd(long a, long b) {
-        return b == 0 ? a : gcd(b, a % b);
-    }
-    private long lcm(long a, long b) {
-        return a / gcd(a, b) * b;
-    }
+    public int gcd(int a,int b){
+        while(b!=0){
+            int temp=b;
+            b=a%b;
+            a=temp;
+        }
+        return a;
+    } 
 }
