@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0279-perfect-squares) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Sankalp-CS/https-github.com-Sankalp-CS-Leetcode_Practice_Solve/tree/master/0867-transpose-matrix) |
